@@ -1,5 +1,7 @@
 # Canvas 5 Polyfill
 
+**Note: Forked to apply PR https://github.com/google/canvas-5-polyfill/pull/23**
+
 Canvas 5 Polyfill is a Javascript polyfill library to fill in new features for HTML 5
 Canvas that browsers may not have implemented yet, such as Path2D objects and
 ellipse() on CanvasRenderingContext2D.
